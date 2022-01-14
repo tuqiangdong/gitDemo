@@ -1,3 +1,4 @@
 hello git
 world hub
 hot-fix inserted
+hot-fix conflict 
