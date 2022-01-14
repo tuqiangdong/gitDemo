@@ -1,4 +1,8 @@
 hello git
 world hub
 hot-fix inserted
+<<<<<<< HEAD
 master  conflict
+=======
+hot-fix conflict 
+>>>>>>> hot-fix
